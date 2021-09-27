@@ -41,7 +41,7 @@ body {
   transition: all 0.5s ease;
 }
 .gallery__img:hover {
-    z-index: :1;
+    z-index :1;
     transform: scale(2);
     box-shadow: 0 25px 40px rgba(0,0,0,.5);
         
@@ -137,7 +137,7 @@ background: linear-gradient(to right,#766da6,#1b1638,#0c0a17);
 
 ul li a:hover{
  color: #fff;
- z-index: :1;
+ z-index :1;
  transform: scale(2);
  box-shadow: 0 25px 40px rgba(0,0,0,.5);
 }
